@@ -1,2 +1,2 @@
 # image-classification
-imagee recognition using pre-trained MobileNetV@ model
+imagee recognition using pre-trained MobileNetV2 model
